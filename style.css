@@ -1,5 +1,7 @@
 html, body {
   height: 100%;
   width: 100%;
+  color: blue;
+  background-color: #ffffb8;
 }
 /* This file should have nothing other than the above 4 lines */
